@@ -1,0 +1,1 @@
+Basic App REST API made with Express to be implemented witha DB and client-side.
